@@ -1,2 +1,2 @@
 # Kelompok_6
-Untuk memenuhi tugas toturial github DPLG
+Untuk memenuhi tugas tutorial menggunakan github 
